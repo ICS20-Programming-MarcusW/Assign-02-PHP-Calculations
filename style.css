@@ -1,0 +1,127 @@
+/* Created by: Marcus Wehbi
+* Created on: Mar 2022
+* This CSS file defines the style for index.php
+* Assign-02-PHP-Calculations
+*/
+
+body {
+  background-color: #D09A8E !important;
+}
+
+h1 {
+  display: block !important;
+  font-size: 40px !important;
+  margin-block-start: 0.67em !important;
+  margin-block-end: 0.67em !important;
+  margin-inline-start: 0px !important;
+  margin-inline-end: 0px !important;
+  font-weight: bold !important;
+  margin: 8px 8px 8px 8px !important; 
+  background-color: rgb(234, 153, 209) !important;
+	color: hsl(305, 100%, 30%) !important;
+	padding: 40px !important;
+	text-align: center !important;
+  border-style: solid !important;
+  border-width: 2px !important;
+}
+
+h2 {
+  display: block !important;
+  font-size: 1.5em !important;
+  margin-block-start: 0.83em !important;
+  margin-block-end: 0.83em !important;
+  margin-inline-start: 0px !important;
+  margin-inline-end: 0px !important;
+  font-weight: bold !important;
+  margin: 8px 8px 8px 8px !important; 
+  background-color: rgb(153, 225, 234) !important;
+	color: hsl(195, 100%, 30%) !important;
+	padding: 30px !important;
+	text-align: center !important;
+  border-style: solid !important;
+  border-width: 2px !important;
+  opacity: 0.9 !important;
+}
+
+h4 {
+  colour: #c2aa0f !important;
+  background-color: #e1f4ee !important;
+  padding: 20px !important;
+  width: 60% !important;
+  font-size: 21px !important;
+}
+
+hr {
+  border-width: 11px !important;
+}
+
+h3 {
+  colour: #006607 !important;
+  background-color: #b8f4e2 !important;
+  padding: 20px !important;
+  width: 60% !important;
+  font-size: 21px !important;
+}
+
+p {
+	background-color: rgb(214, 244, 190) !important;
+	color: hsl(127, 100%, 23%) !important;
+  padding: 5px !important;
+  text-align: center !important;
+  font-family: garamond !important;
+  border-style: solid !important;
+  border-width: 2px !important;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  margin: 8px !important;
+}
+
+.res {
+  background-color: #f4dbbe !important;
+}
+
+form {
+  background-color: #f4c7c7 !important;
+  margin: 10px !important;
+  padding: 10px !important;
+}
+
+* {
+  box-sizing: border-box !important;
+}
+
+.column {
+  float: left !important;
+  width: 50% !important;
+  padding: 5px !important;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "" !important;
+  clear: both !important;
+  display: table !important;
+}
+
+/* Clearfix (clear floats) */
+.row2::after {
+  content: "" !important;
+  clear: both !important;
+  display: table !important;
+}
+
+.mdl-mini-footer {
+  background-color: #5a5353 !important;
+}
+
+.column {
+    float: left !important;
+    width: 50% !important;
+    padding: 10px !important;
+}
+.row {
+  margin: 14px;
+}
